@@ -1,0 +1,5 @@
+https://newsapi.org/
+
+LOGIN: jhonatan@unidavi.edu.br
+SENHA: 190717Unidavi
+KEY: 4e9f2c7afa9c4fe5913efa68aa64c3ab
